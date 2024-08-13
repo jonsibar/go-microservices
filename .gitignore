@@ -1,2 +1,2 @@
-workspace.code-workspace
-front-end/.vscode/launch.json
+*.code-workspace
+.vscode/
