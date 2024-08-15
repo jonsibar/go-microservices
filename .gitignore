@@ -1,2 +1,7 @@
 *.code-workspace
-.vscode/
+.vscode
+frontApp
+brokerApp
+authApp
+loggerServiceApp
+mailerApp
